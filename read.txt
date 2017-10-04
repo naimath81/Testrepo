@@ -1,1 +1,2 @@
 git checkout -b test2 develop
+git commit -am 'message'
